@@ -40,6 +40,6 @@ addNewPizza({ name: "Beef", price: 125 });
 addNewPizza({ name: "Pork", price: 250 });
 placeOrder("Chicken");
 completeOrder(1);
-// console.log(menu);
+console.log(menu);
 console.log(cashInRegister);
 console.log(orderQueue);
